@@ -1,2 +1,2 @@
 # rodenticide
-Data for the rodent anticoagulant rodenticide project
+R analysis script for the manuscript "VKORC1-based resistance to rodenticides widespread in Finnish house mice but not in brown rats"
